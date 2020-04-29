@@ -1,0 +1,14 @@
+apiVersion: v2
+publisher: radon
+name: helloworld
+version: 0.0.1
+type: VS Code extension
+displayName: RADON-h2020 Hello World
+title: A Greeting by RADON
+description: An example of plugin to be integrated in Che
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+repository: https://github.com/radon-h2020/radon-defect-prediction-plugin
+category: Other
+spec:
+  extensions:
+    - https://raw.githubusercontent.com/radon-h2020/radon-plugin-registry/master/radon/examples/helloworld/helloworld-0.0.1.vsix
