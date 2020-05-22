@@ -1,0 +1,14 @@
+apiVersion: v2
+publisher: radon
+name: radon-dec-plugin
+version: 0.0.1
+type: VS Code extension
+displayName: radon-decomposition-plugin
+title: RADON Decomposition Plugin
+description: A plugin for invoking the RADON decomposition tool
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+repository: https://github.com/radon-h2020/radon-decomposition-plugin
+category: Other
+spec:
+  extensions:
+    - https://raw.githubusercontent.com/radon-h2020/radon-plugin-registry/master/radon/radon-decomposition/0.0.1/plugin.vsix
