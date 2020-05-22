@@ -5,7 +5,7 @@ version: 0.0.1
 type: VS Code extension
 displayName: RADON-h2020 Commands
 title: A RADON menu
-description: A plugin to be integrate in Che to add RADON custom commands
+description: A plugin to add RADON custom commands
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
 repository: https://github.com/radon-h2020/radon-plugin-registry
 category: Other
