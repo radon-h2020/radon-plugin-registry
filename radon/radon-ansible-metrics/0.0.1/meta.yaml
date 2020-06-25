@@ -1,0 +1,14 @@
+apiVersion: v2
+publisher: radon
+name: radon-ansible-metrics
+version: 0.0.1
+type: VS Code extension
+displayName: AnsibleMetrics
+title: AnsibleMetrics
+description: A plugin for the AnsibleMetrics tool (https://radon-h2020.github.io/radon-ansible-metrics/)
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+repository: https://github.com/radon-h2020/radon-ansible-metrics-plugin
+category: Other
+spec:
+  extensions:
+    - https://raw.githubusercontent.com/radon-h2020/radon-plugin-registry/master/radon/radon-ansible-metrics/0.0.1/ansiblemetrics-0.0.1.vsix

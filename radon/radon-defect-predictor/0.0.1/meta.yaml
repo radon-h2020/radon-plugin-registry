@@ -11,4 +11,4 @@ repository: https://github.com/radon-h2020/radon-defect-prediction-plugin
 category: Other
 spec:
   extensions:
-    - https://raw.githubusercontent.com/radon-h2020/radon-plugin-registry/master/radon/radon-defect-predictor/radon-defect-predictor-0.0.1.vsix
+    - https://raw.githubusercontent.com/radon-h2020/radon-plugin-registry/master/radon/radon-defect-predictor/0.0.1/radon-defect-predictor-0.0.1.vsix
