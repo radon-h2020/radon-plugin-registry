@@ -1,0 +1,15 @@
+apiVersion: v2
+publisher: radon
+name: radon-xopera-saas-plugin
+version: 0.0.1
+type: VS Code extension
+displayName: radon-xopera-saas-plugin
+title: RADON xOpera SaaS Plugin
+description: Use xOpera SaaS directly from your IDE!
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+repository: https://github.com/radon-h2020/radon-xopera-saas-plugin
+category: Other
+spec:
+  extensions:
+    - https://raw.githubusercontent.com/radon-h2020/radon-plugin-registry/master/radon/radon-xopera-saas/0.0.1/radon-xopera-saas-plugin.vsix
+
