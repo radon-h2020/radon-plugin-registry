@@ -19,6 +19,6 @@ This plugin provides a RADON menu with custom RADON commands.
 
 ## Release Notes
 
-### 1.0.0
+### 0.0.1
 
 Initial release
