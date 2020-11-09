@@ -4,8 +4,8 @@ This plugin provides a RADON menu with custom RADON commands.
 
 ## Features
 
-- RADON command to start deployment process of a CSAR
-- RADON command to show deployment status
+- RADON command to trigger CI of a CSAR
+- RADON command to show CI status
 - RADON command to open the RADON documentation page
 - RADON command to open the RADON Monitoring page
 
