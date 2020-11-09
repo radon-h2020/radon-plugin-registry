@@ -3,7 +3,7 @@ publisher: radon
 name: radon-dec-plugin
 version: 0.0.2
 type: VS Code extension
-displayName: radon-decomposition-plugin
+displayName: RADON Decomposition
 title: RADON Decomposition Plugin
 description: A plugin for invoking the RADON decomposition tool
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
