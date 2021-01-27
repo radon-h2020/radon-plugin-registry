@@ -11,8 +11,6 @@ repository: https://github.com/radon-h2020/radon-defect-prediction-plugin
 category: Other
 spec:
   containers:                                                   
-    - image: stefadp/radon-dpt-plugin                                                    
-      memoryLimit: 512Mi                                           
-      memoryRequest: 512Mi
+    - image: stefadp/radon-dpt-plugin
   extensions:
     - https://raw.githubusercontent.com/radon-h2020/radon-plugin-registry/master/radon/radon-defect-predictor/0.0.6/radon-defect-predictor-0.0.6.vsix
