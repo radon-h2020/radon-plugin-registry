@@ -13,7 +13,7 @@ spec:
   containers:                                                   
     - image: stefadp/radon-dpt-plugin
       memoryLimit: "1500Mi"
-      memoryRequest: "1000Mi"
+      memoryRequest: "512Mi"
       cpuLimit: "500m"
       cpuRequest: "125m"
   extensions:
