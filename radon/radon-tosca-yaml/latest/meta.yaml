@@ -1,0 +1,14 @@
+apiVersion: v2
+publisher: radon
+name: radon-tosca-yaml
+version: 0.0.1
+type: VS Code extension
+displayName: RADON-h2020 radon-tosca-yaml plugin
+title: radon-tosca-yaml plugin
+description: VSCode extention for the TOSCA Yaml langugage
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+repository: https://github.com/radon-h2020/radon-plugin-registry
+category: Other
+spec:
+  extensions:
+    - https://raw.githubusercontent.com/radon-h2020/radon-plugin-registry/master/radon/radon-tosca-yaml/0.0.1/ToscaYaml-1.0.0.vsix
