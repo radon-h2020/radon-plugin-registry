@@ -1,0 +1,14 @@
+apiVersion: v2
+publisher: radon
+name: radon-vt-plugin
+version: 0.0.1
+type: VS Code extension
+displayName: RADON-h2020 DataPP plugin
+title: RADON DataPP plugin
+description: The che plugin for RADON DataPP
+icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
+repository: https://github.com/radon-h2020/radon-plugin-registry
+category: Other
+spec:
+  extensions:
+    - https://raw.githubusercontent.com/pjakovits/radon-plugin-registry/master/radon/radon-datapipeline-plugin/0.0.1/
